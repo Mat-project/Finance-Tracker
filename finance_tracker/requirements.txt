@@ -1,0 +1,63 @@
+# Core Django
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+django-filter
+
+# Database
+psycopg2-binary
+
+# Task Queue
+celery
+django-celery-beat
+redis
+
+# Image Processing
+Pillow
+
+# Environment Variables
+python-dotenv
+
+# Date/Time
+pytz
+
+# Development Tools
+django-debug-toolbar
+
+# Security
+django-environ
+
+# API Documentation
+drf-yasg
+
+# Testing
+pytest
+pytest-django
+factory-boy
+
+# Code Quality
+black
+flake8
+isort
+
+# Production
+gunicorn
+whitenoise
+
+# Machine Learning (for predictive insights)
+pandas
+scikit-learn
+numpy
+
+# Email
+django-anymail
+
+# Monitoring
+sentry-sdk
+
+# AWS (if using AWS services)
+boto3
+
+# Cache
+django-redis
